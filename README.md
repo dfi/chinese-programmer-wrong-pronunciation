@@ -18,6 +18,7 @@
 | digest | /ˈdaɪdʒest/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/digest_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/l3digest2.mp3) |
 | Django | /ˈdʒæŋɡo/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=Django&type=1) [🇺🇸]() |
 | doc | /dɒk $ dɑːk/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41doc.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/doc.mp3) |
+| exhibit | /ɪɡˈzɪbɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/exhibit_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/exhibit1.mp3) |
 | facade | /fəˈsɑːd, fæ-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/facade0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadfacade.mp3) |
 | fedora | /fəˈdɔːrə/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41fedora.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ld41fedora.mp3) |
 | Git | /ɡɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/git0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ld41git.mp3) |
