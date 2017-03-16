@@ -76,4 +76,4 @@
 ----
 * 在 [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 的基础上，参照 [Chinese Programmers' Correct Pronunciation Handbook](https://github.com/lilydjwg/chinese-programmers-correct-pronunciations-handbook) 修改。
 
-* 大多数音标和发音来自 [Longman Dictionary of Contemporary English Online](http://www.ldoceonline.com/)，部分来自 [有道](http://dict.youdao.com/) 和 [Cambridge Dictionary](http://dictionary.cambridge.org/zhs/)。
+* 大多数音标和发音来自 [Longman Dictionary of Contemporary English Online](http://www.ldoceonline.com/)，部分来自 [有道](http://dict.youdao.com/) 和 [Cambridge Dictionary](http://dictionary.cambridge.org/zhs/) 等。
