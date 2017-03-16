@@ -14,6 +14,7 @@
 | Azure | /ˈæʒə, ˈæʒjʊə, ˈæzjʊə $ ˈæʒər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/azure0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/azure.mp3) | 
 | bind | /baɪnd/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/bind_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/bind1.mp3) |
 | cache | /kæʃ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/cache_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/cache.mp3) |
+| depth | /depθ/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=depth&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=depth&type=2) |
 | deque | /dek/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=deque&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=deque&type=2) |
 | digest | /ˈdaɪdʒest/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/digest_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/l3digest2.mp3) |
 | Django | /ˈdʒæŋɡo/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=Django&type=1) [🇺🇸]() |
