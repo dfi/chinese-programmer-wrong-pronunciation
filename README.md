@@ -49,6 +49,7 @@
 | query | /ˈkwɪəri $ ˈkwɪri/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/query_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/query1.mp3) |
 | Qt | cute | [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) |
 | Realm | /relm/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/realm0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/realm.mp3) |
+| represent | /ˌreprɪˈzent/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/represent0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/represent.mp3) |
 | repository | /rɪˈpɒzətəri $ rɪˈpɑːzətɔːri/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41repository.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/repository.mp3) |
 | resolve | /rɪˈzɒlv $ rɪˈzɑːlv, rɪˈzɒːlv/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/resolve_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/resolve1.mp3) |
 | resort | /rɪˈzɔːt $ -ɔːrt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/resort_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/resort1.mp3) |
