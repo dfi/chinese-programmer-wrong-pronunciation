@@ -17,6 +17,7 @@
 | causal | /ˈkɔːzəl $ ˈkɒː-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41causal.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/causal.mp3) |
 | depth | /depθ/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=depth&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=depth&type=2) |
 | deque | /dek/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=deque&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=deque&type=2) |
+| dice | /daɪs/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/dice_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/dice1.mp3) |
 | digest | /ˈdaɪdʒest/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/digest_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/l3digest2.mp3) |
 | Django | /ˈdʒæŋɡo/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=Django&type=1) [🇺🇸]() |
 | doc | /dɒk $ dɑːk/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41doc.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/doc.mp3) |
