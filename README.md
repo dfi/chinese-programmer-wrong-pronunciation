@@ -44,6 +44,7 @@
 | margin | /ˈmɑːdʒɪn $ ˈmɑːr-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/margin0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/margin.mp3) |
 | matrix | /ˈmeɪtrɪks/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41matrix.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/matrix.mp3) |
 | maven | /ˈmeɪvən/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/maven0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/maven.mp3) |
+| mode | /məʊd $ moʊd/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/mode0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/mode1.mp3) |
 | module | /ˈmɒdjuːl $ ˈmɑːdʒuːl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/module0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/module.mp3) |
 | nginx | Engine-X /ˈendʒɪn/-X | [🌍](https://www.nginx.com/resources/wiki/community/faq/) |
 | null | /nʌl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41null.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/null.mp3) |
