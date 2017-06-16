@@ -57,6 +57,7 @@
 | putty | /ˈpʌti/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/putty0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/putty.mp3) |
 | query | /ˈkwɪəri $ ˈkwɪri/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/query_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/query1.mp3) |
 | Qt | cute | [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) |
+| ratio | /ˈreɪʃiəʊ $ ˈreɪʃoʊ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ratio0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ratio.mp3) |
 | Realm | /relm/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/realm0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/realm.mp3) |
 | recipe | /ˈresəpi/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/recipe0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/recipe.mp3) |
 | represent | /ˌreprɪˈzent/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/represent0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/represent.mp3) |
