@@ -25,7 +25,7 @@
 | exhibit | /ɪɡˈzɪbɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/exhibit_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/exhibit1.mp3) |
 | facade | /fəˈsɑːd, fæ-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/facade0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadfacade.mp3) |
 | fedora | /fəˈdɔːrə/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41fedora.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ld41fedora.mp3) |
-| Fibonacci | /ˌfɪbəˈnɑːtʃi/ | [🔊](http://static.sfdict.com/dictstatic/dictionary/audio/ahsd/F/F0007900.mp3) [🌍](https://www.youtube.com/watch?v=NqnVgOxz2js) |
+| Fibonacci | /ˌfɪbəˈnɑːtʃi/ | [🔊](http://static.sfdict.com/dictstatic/dictionary/audio/ahsd/F/F0007900.mp3) [🎞](https://www.youtube.com/watch?v=NqnVgOxz2js) |
 | Git | /ɡɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/git0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ld41git.mp3) |
 | GNU | /gnu:/ | [🔊](https://www.gnu.org/audio/gnu-pronunciation.ogg) | 
 | GUI | /ˈɡuːi/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=GUI&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=GUI&type=2) | 
@@ -37,7 +37,7 @@
 | issue | /ˈɪʃuː, ˈɪsjuː $ ˈɪʃuː/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/issue_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/issue1.mp3) |
 | Java | /ˈdʒɑːvə/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41java2.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/p028-000006654.mp3) |
 | JPEG(JPG) | /ˈdʒeɪ peɡ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld42jpeg.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadjpeg.mp3) |
-| JSON | /ˈdʒeɪsən/ | [🌍](https://en.wikipedia.org/wiki/JSON) [🌍](https://www.youtube.com/watch?v=hQVTIJBZook&t=2405) |
+| JSON | /ˈdʒeɪsən/ | [🌍](https://en.wikipedia.org/wiki/JSON) [🎞](https://www.youtube.com/watch?v=hQVTIJBZook&t=2405) |
 | lambda | /ˈlæmdə/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=lambda&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=lambda&type=2) |
 | linear | /ˈlɪniə $ -ər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/linear0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/linear.mp3) |
 | Linux | /ˈlɪnəks, ˈlaɪnʌks/ | [🇺🇸](http://dictionary.cambridge.org/zhs/media/english/us_pron/e/eus/eus17/eus17029.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/linux1004a.mp3) |
@@ -73,7 +73,7 @@
 | sudo | /'suːduː/ |  |
 | suite | /swiːt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/suite0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/suite.mp3) |
 | typical | /ˈtɪpɪkəl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/typical0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/typical.mp3) |
-| Ubuntu | /ʊˈbʊntuː/, uu-buun-too | [🌍](https://www.youtube.com/watch?v=CP8CNp-vksc) |
+| Ubuntu | /ʊˈbʊntuː/, uu-buun-too | [🎞](https://www.youtube.com/watch?v=CP8CNp-vksc) |
 | variable | /ˈveəriəbəl $ ˈver-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/variable_adj0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/l3variable.mp3) |
 | vehement | /ˈviːəmənt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/vehement0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/vehement.mp3) |
 | vue | /vjuː/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=vue&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=vue&type=2) |
