@@ -79,6 +79,7 @@
 | vehement | /ˈviːəmənt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/vehement0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/vehement.mp3) |
 | vue | /vjuː/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=vue&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=vue&type=2) |
 | width | /wɪdθ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/width0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/width.mp3) |
+| YAML | /ˈjæməl/ | [🌍](https://en.wikipedia.org/wiki/YAML) |
 | YouTube | /ˈjuːtjuːb $ -tuːb/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/lpd_youtube.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/lpd_youtube.mp3) |
 
 ----
