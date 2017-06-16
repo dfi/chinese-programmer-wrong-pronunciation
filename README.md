@@ -15,6 +15,7 @@
 | bind | /baɪnd/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/bind_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/bind1.mp3) |
 | cache | /kæʃ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/cache_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/cache.mp3) |
 | causal | /ˈkɔːzəl $ ˈkɒː-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41causal.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/causal.mp3) |
+| daemon | /ˈdiːmən/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41daemon.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/daemon.mp3) |
 | depth | /depθ/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=depth&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=depth&type=2) |
 | deque | /dek/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=deque&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=deque&type=2) |
 | dice | /daɪs/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/dice_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/dice1.mp3) |
