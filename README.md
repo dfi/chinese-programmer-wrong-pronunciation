@@ -37,6 +37,7 @@
 | issue | /ˈɪʃuː, ˈɪsjuː $ ˈɪʃuː/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/issue_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/issue1.mp3) |
 | Java | /ˈdʒɑːvə/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41java2.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/p028-000006654.mp3) |
 | JPEG(JPG) | /ˈdʒeɪ peɡ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld42jpeg.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadjpeg.mp3) |
+| JSON | /ˈdʒeɪsən/ | [🌍](https://en.wikipedia.org/wiki/JSON) [🌍](https://www.youtube.com/watch?v=hQVTIJBZook&t=2405) |
 | lambda | /ˈlæmdə/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=lambda&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=lambda&type=2) |
 | linear | /ˈlɪniə $ -ər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/linear0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/linear.mp3) |
 | Linux | /ˈlɪnəks, ˈlaɪnʌks/ | [🇺🇸](http://dictionary.cambridge.org/zhs/media/english/us_pron/e/eus/eus17/eus17029.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/linux1004a.mp3) |
