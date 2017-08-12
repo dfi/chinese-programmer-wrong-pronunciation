@@ -12,6 +12,7 @@
 | aspect | /ˈæspekt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/aspect0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/aspect.mp3) |
 | avatar | /ˈævətɑː $ -tɑːr/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41avatar.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/avatar.mp3) |
 | Azure | /ˈæʒə, ˈæʒjʊə, ˈæzjʊə $ ˈæʒər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/azure0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/azure.mp3) | 
+| badge | /bædʒ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/badge0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/badge.mp3) |
 | bind | /baɪnd/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/bind_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/bind1.mp3) |
 | cache | /kæʃ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/cache_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/cache.mp3) |
 | causal | /ˈkɔːzəl $ ˈkɒː-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41causal.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/causal.mp3) |
