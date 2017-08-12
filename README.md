@@ -32,6 +32,7 @@
 | facade | /fəˈsɑːd, fæ-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/facade0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadfacade.mp3) |
 | fedora | /fəˈdɔːrə/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41fedora.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ld41fedora.mp3) |
 | Fibonacci | /ˌfɪbəˈnɑːtʃi/ | [🔊](http://static.sfdict.com/dictstatic/dictionary/audio/ahsd/F/F0007900.mp3) [🎞](https://www.youtube.com/watch?v=NqnVgOxz2js) |
+| finesse | /fəˈnes/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/finesse_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/l3finesse.mp3) |
 | gist | /dʒɪst/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/gist0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/gist.mp3) |
 | Git | /ɡɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/git0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ld41git.mp3) |
 | GNU | /gnu:/ | [🔊](https://www.gnu.org/audio/gnu-pronunciation.ogg) | 
