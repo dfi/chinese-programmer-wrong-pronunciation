@@ -77,6 +77,7 @@
 | subtle | /ˈsʌtl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/subtle0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/subtle.mp3) |
 | sudo | /'suːduː/ |  |
 | suite | /swiːt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/suite0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/suite.mp3) |
+| tunnel | /ˈtʌnl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/tunnel_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/tunnel1.mp3) |
 | typical | /ˈtɪpɪkəl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/typical0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/typical.mp3) |
 | Ubuntu | /ʊˈbʊntuː/, uu-buun-too | [🎞](https://www.youtube.com/watch?v=CP8CNp-vksc) |
 | variable | /ˈveəriəbəl $ ˈver-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/variable_adj0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/l3variable.mp3) |
