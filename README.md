@@ -58,6 +58,7 @@
 | phantom | /ˈfæntəm/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdephantom.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/phantom.mp3) |
 | parameter | /pəˈræmɪtə $ -ər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/parameter0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/parameter.mp3) |
 | pip | /pɪp/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/pip_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/pip1.mp3) |
+| plague | /pleɪɡ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/plague_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/plague1.mp3) |
 | pulse | /pʌls/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/pulse_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/pulse1.mp3) |
 | putty | /ˈpʌti/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/putty0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/putty.mp3) |
 | query | /ˈkwɪəri $ ˈkwɪri/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/query_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/query1.mp3) |
