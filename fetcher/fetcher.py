@@ -13,7 +13,10 @@ WORD       = 'example'
 
 def fetch(prompt="Enter your word: "):
     input_word = input(prompt)
-    if not isinstance(input_word, str) or len(input_word) == 0:
+    if input_word == ' ':
+        print("A space ended the fetch.")
+        return None
+    elif not isinstance(input_word, str) or len(input_word) == 0:
         return fetch(prompt="Please enter a word-like word: ")
 
     global WORD
@@ -32,34 +35,26 @@ def fetch(prompt="Enter your word: "):
 
 def parse():
     p = fetch()
+    if p is None:
+        return None
     brefile = p.find_class('brefile')[0]
     amefile = p.find_class('amefile')[0]
-    pronfile = p.find_class('PRON')[0]
-
-    try:
-        ame_pron = p.find_class("AMEVARPRON")[0].text_content()
-    except IndexError:
-        ame_pron = None
-
-    pron = pronfile.text
-    if ame_pron is not None:
-        pron = pron + ame_pron
+    pronfile = p.find_class('PronCodes')[0]
+    pron = pronfile.text_content()
     bre_mp3 = brefile.get('data-src-mp3')
     ame_mp3 = amefile.get('data-src-mp3')
 
-    result = '| ' + WORD + ' | ' + \
-             '/' + pron + '/ | ' + \
-             '[' + \
-            u'\U0001F1EC\U0001F1E7' + \
-             '](' + bre_mp3 + ') [' + \
-            u'\U0001F1FA\U0001F1F8' + \
-             '](' + ame_mp3 + ') |'
+    result = '| ' + WORD + ' |' + pron + ' | ' + \
+             '[' + u'\U0001F1EC\U0001F1E7' + '](' + bre_mp3 + ') [' + \
+             u'\U0001F1FA\U0001F1F8' + '](' + ame_mp3 + ') |'
 
     return result
 
 
 def parse_and_copy():
     r = parse()
+    if r is None:
+        return None
     print('Result: ', r)
     try:
         os.system("echo '%s' | tr -d '\n' | pbcopy" % r)
@@ -71,4 +66,3 @@ def parse_and_copy():
 
 if __name__ == '__main__':
     parse_and_copy()
-
