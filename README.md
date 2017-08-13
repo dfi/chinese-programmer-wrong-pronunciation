@@ -2,6 +2,7 @@
 | 单词  | 音标 | 发音 |
 | ---- | ---- | ---- |
 | access | /ˈækses/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdeaccess.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/access1.mp3) |
+| achieve | /əˈtʃiːv/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/achieve0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/achieve.mp3) |
 | analogy | /əˈnælədʒi/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/analogy0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/analogy.mp3) |
 | Angular | /ˈæŋɡjələ $ -ər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/angular0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/angular.mp3) |
 | AJAX | /'eidʒæks/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) |
