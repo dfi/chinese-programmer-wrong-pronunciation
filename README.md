@@ -89,6 +89,7 @@
 | Ubuntu | /ʊˈbʊntuː/, uu-buun-too | [🎞](https://www.youtube.com/watch?v=CP8CNp-vksc) |
 | variable | /ˈveəriəbəl $ ˈver-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/variable_adj0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/l3variable.mp3) |
 | vehement | /ˈviːəmənt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/vehement0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/vehement.mp3) |
+| vehicle | /ˈviːɪkəl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/vehicle0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/vehicle.mp3) |
 | vue | /vjuː/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=vue&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=vue&type=2) |
 | width | /wɪdθ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/width0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/width.mp3) |
 | YAML | /ˈjæməl/ | [🌍](https://en.wikipedia.org/wiki/YAML) |
