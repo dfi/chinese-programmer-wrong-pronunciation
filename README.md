@@ -19,6 +19,7 @@
 | cascade | /kæˈskeɪd/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/cascade_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/cascade1.mp3) |
 | causal | /ˈkɔːzəl $ ˈkɒː-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41causal.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/causal.mp3) |
 | caveat | /ˈkæviæt, ˈkeɪv-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41caveat.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/caveat.mp3) |
+| console | /kənˈsəʊl $ -ˈsoʊl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/console_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/l3console.mp3) |
 | coupon | /ˈkuːpɒn $ -pɑːn/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/coupon0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/coupon.mp3) |
 | daemon | /ˈdiːmən/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41daemon.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/daemon.mp3) |
 | depth | /depθ/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=depth&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=depth&type=2) |
