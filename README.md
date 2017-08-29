@@ -72,6 +72,7 @@
 | OS X | O-S ten | [🌍](https://support.apple.com/kb/TA22541?locale=en_US) |
 | phantom | /ˈfæntəm/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdephantom.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/phantom.mp3) |
 | parameter | /pəˈræmɪtə $ -ər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/parameter0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/parameter.mp3) |
+| parenthesis | /pəˈrenθɪsɪs/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41parenthesis.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/parenthesis.mp3) |
 | pip | /pɪp/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/pip_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/pip1.mp3) |
 | plague | /pleɪɡ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/plague_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/plague1.mp3) |
 | pulse | /pʌls/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/pulse_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/pulse1.mp3) |
