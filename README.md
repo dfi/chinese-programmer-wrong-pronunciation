@@ -56,6 +56,7 @@
 | Linux | /ˈlɪnəks, ˈlaɪnʌks/ | [🇺🇸](http://dictionary.cambridge.org/zhs/media/english/us_pron/e/eus/eus17/eus17029.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/linux1004a.mp3) |
 | main | /meɪn/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdemain.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/main1.mp3) |
 | margin | /ˈmɑːdʒɪn $ ˈmɑːr-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/margin0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/margin.mp3) |
+| mask | /mɑːsk $ mæsk/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdemask.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/mask1.mp3) |
 | matrix | /ˈmeɪtrɪks/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41matrix.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/matrix.mp3) |
 | maven | /ˈmeɪvən/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/maven0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/maven.mp3) |
 | mode | /məʊd $ moʊd/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/mode0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/mode1.mp3) |
