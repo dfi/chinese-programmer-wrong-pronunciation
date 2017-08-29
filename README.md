@@ -48,6 +48,7 @@
 | Haskell | /ˈhæskəl/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=haskell&type=1) |
 | height | /haɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/height0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/height.mp3) |
 | hidden | /ˈhɪdn/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=hidden&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=hidden&type=2) |
+| hypothesis | /haɪˈpɒθəsɪs $ -ˈpɑː-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/hypothesis0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/hypothesis.mp3) |
 | image | /ˈɪmɪdʒ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/image0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/image.mp3) |
 | integer | /ˈɪntədʒə $ -ər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41integer.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/integer.mp3) |
 | issue | /ˈɪʃuː, ˈɪsjuː $ ˈɪʃuː/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/issue_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/issue1.mp3) |
