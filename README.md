@@ -1,5 +1,5 @@
 
-| 单词  | 音标 | 发音 |
+| 单词 | 音标 | 发音 |
 | ---- | ---- | ---- |
 | access | /ˈækses/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdeaccess.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/access1.mp3) |
 | achieve | /əˈtʃiːv/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/achieve0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/achieve.mp3) |
@@ -8,12 +8,12 @@
 | Angular | /ˈæŋɡjələ $ -ər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/angular0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/angular.mp3) |
 | AJAX | /'eidʒæks/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) |
 | Apache | /əˈpætʃɪ/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=Apache&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=Apache&type=2) |
-| app | /æp/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld5_app.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ld5_app.mp3) | 
+| app | /æp/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld5_app.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ld5_app.mp3) |
 | archive | /ˈɑːkaɪv $ ˈɑːr-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/archive_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadarchive.mp3) |
 | array | /əˈreɪ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/array_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/array1.mp3) |
 | aspect | /ˈæspekt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/aspect0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/aspect.mp3) |
 | avatar | /ˈævətɑː $ -tɑːr/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41avatar.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/avatar.mp3) |
-| Azure | /ˈæʒə, ˈæʒjʊə, ˈæzjʊə $ ˈæʒər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/azure0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/azure.mp3) | 
+| Azure | /ˈæʒə, ˈæʒjʊə, ˈæzjʊə $ ˈæʒər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/azure0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/azure.mp3) |
 | badge | /bædʒ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/badge0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/badge.mp3) |
 | bind | /baɪnd/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/bind_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/bind1.mp3) |
 | bouquet | /bəʊˈkeɪ, buː- $ boʊ-, buː-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/bouquet0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/bouquet.mp3) |
@@ -43,8 +43,8 @@
 | genre | /ˈʒɒnrə $ ˈʒɑːnrə/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/genre0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/genre.mp3) |
 | gist | /dʒɪst/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/gist0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/gist.mp3) |
 | Git | /ɡɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/git0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ld41git.mp3) |
-| GNU | /gnu:/ | [🔊](https://www.gnu.org/audio/gnu-pronunciation.ogg) | 
-| GUI | /ˈɡuːi/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=GUI&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=GUI&type=2) | 
+| GNU | /gnu:/ | [🔊](https://www.gnu.org/audio/gnu-pronunciation.ogg) |
+| GUI | /ˈɡuːi/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=GUI&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=GUI&type=2) |
 | Haskell | /ˈhæskəl/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=haskell&type=1) |
 | height | /haɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/height0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/height.mp3) |
 | hidden | /ˈhɪdn/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=hidden&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=hidden&type=2) |
@@ -107,6 +107,26 @@
 | YouTube | /ˈjuːtjuːb $ -tuːb/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/lpd_youtube.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/lpd_youtube.mp3) |
 
 ----
-* 在 [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 的基础上，参照 [Chinese Programmers' Correct Pronunciation Handbook](https://github.com/lilydjwg/chinese-programmers-correct-pronunciations-handbook) 修改。
+
+## 说明
+
+* 以 [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 为基础。
+
+* 排版样式参考了 [Chinese Programmers' Correct Pronunciation Handbook](https://github.com/lilydjwg/chinese-programmers-correct-pronunciations-handbook)。
 
 * 大多数音标和发音来自 [Longman Dictionary of Contemporary English Online](http://www.ldoceonline.com/)，部分来自 [有道](http://dict.youdao.com/) 和 [Cambridge Dictionary](http://dictionary.cambridge.org/zhs/) 等。
+
+* 
+    | Emoji | 表示 |
+    | :----: | :----: |
+    | 🇬🇧 | 英式发音 |
+    | 🇺🇸 | 美式发音 |
+    | 🔊 | 其他发音来源 |
+    | 🎞 | 发音视频片段 |
+    | 🌍 | 发音参考网址 |
+
+* fetcher 文件夹里有两个用 Python 写的 (简陋的) 小工具。
+
+    `fetcher.py 用于从 ldoceonline.com 获取单词的发音，运行后会自动复制所查询单词的结果，然后手动将结果插入此表。`
+    
+    `pron_youdao.py 用于从 dict.youdao.com 模拟 Chrome 自动发音。`
