@@ -66,6 +66,7 @@
 | mode | /məʊd $ moʊd/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/mode0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/mode1.mp3) |
 | module | /ˈmɒdjuːl $ ˈmɑːdʒuːl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/module0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/module.mp3) |
 | naive | /naɪˈiːv/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/naive0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadnaive.mp3) |
+| neural | /ˈnjʊərəl $ ˈnʊr-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/neural0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadneural.mp3) |
 | nginx | Engine-X /ˈendʒɪn/-X | [🌍](https://www.nginx.com/resources/wiki/community/faq/) |
 | nomenclature | /nəʊˈmeŋklətʃə $ ˈnoʊmənkleɪtʃər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41nomenclature.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/nomenclature.mp3) |
 | null | /nʌl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41null.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/null.mp3) |
