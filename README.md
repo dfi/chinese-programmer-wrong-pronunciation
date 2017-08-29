@@ -15,6 +15,7 @@
 | Azure | /ˈæʒə, ˈæʒjʊə, ˈæzjʊə $ ˈæʒər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/azure0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/azure.mp3) | 
 | badge | /bædʒ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/badge0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/badge.mp3) |
 | bind | /baɪnd/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/bind_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/bind1.mp3) |
+| bouquet | /bəʊˈkeɪ, buː- $ boʊ-, buː-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/bouquet0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/bouquet.mp3) |
 | cache | /kæʃ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/cache_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/cache.mp3) |
 | cascade | /kæˈskeɪd/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/cascade_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/cascade1.mp3) |
 | cast | /kɑːst $ kæst/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/cast_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/cast1.mp3) |
