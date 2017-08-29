@@ -67,6 +67,7 @@
 | module | /ˈmɒdjuːl $ ˈmɑːdʒuːl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/module0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/module.mp3) |
 | naive | /naɪˈiːv/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/naive0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadnaive.mp3) |
 | nginx | Engine-X /ˈendʒɪn/-X | [🌍](https://www.nginx.com/resources/wiki/community/faq/) |
+| nomenclature | /nəʊˈmeŋklətʃə $ ˈnoʊmənkleɪtʃər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41nomenclature.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/nomenclature.mp3) |
 | null | /nʌl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41null.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/null.mp3) |
 | numeric | /njuːˈmerɪk/ | [🇬🇧](http://dictionary.cambridge.org/zhs/media/english/uk_pron/e/epd/epd20/epd20527.mp3) [🇺🇸](http://dictionary.cambridge.org/zhs/media/english/us_pron/e/eus/eus20/eus20126.mp3) |
 | OS X | O-S ten | [🌍](https://support.apple.com/kb/TA22541?locale=en_US) |
