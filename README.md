@@ -1,4 +1,3 @@
-
 | 单词 | 音标 | 发音 |
 | ---- | ---- | ---- |
 | access | /ˈækses/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdeaccess.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/access1.mp3) |
