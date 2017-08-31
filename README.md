@@ -3,9 +3,9 @@
 | access | /ˈækses/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdeaccess.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/access1.mp3) |
 | achieve | /əˈtʃiːv/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/achieve0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/achieve.mp3) |
 | agile | /ˈædʒaɪl $ ˈædʒəl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/agile0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/agile.mp3) |
+| AJAX | /'eidʒæks/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) |
 | analogy | /əˈnælədʒi/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/analogy0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/analogy.mp3) |
 | Angular | /ˈæŋɡjələ $ -ər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/angular0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/angular.mp3) |
-| AJAX | /'eidʒæks/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) |
 | Apache | /əˈpætʃɪ/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=Apache&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=Apache&type=2) |
 | app | /æp/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld5_app.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ld5_app.mp3) |
 | archive | /ˈɑːkaɪv $ ˈɑːr-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/archive_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadarchive.mp3) |
@@ -80,18 +80,18 @@
 | plague | /pleɪɡ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/plague_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/plague1.mp3) |
 | pulse | /pʌls/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/pulse_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/pulse1.mp3) |
 | putty | /ˈpʌti/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/putty0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/putty.mp3) |
-| query | /ˈkwɪəri $ ˈkwɪri/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/query_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/query1.mp3) |
 | Qt | cute | [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) |
+| query | /ˈkwɪəri $ ˈkwɪri/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/query_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/query1.mp3) |
 | ratio | /ˈreɪʃiəʊ $ ˈreɪʃoʊ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ratio0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ratio.mp3) |
 | Realm | /relm/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/realm0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/realm.mp3) |
 | recipe | /ˈresəpi/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/recipe0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/recipe.mp3) |
-| represent | /ˌreprɪˈzent/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/represent0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/represent.mp3) |
 | repository | /rɪˈpɒzətəri $ rɪˈpɑːzətɔːri/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41repository.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/repository.mp3) |
+| represent | /ˌreprɪˈzent/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/represent0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/represent.mp3) |
 | resolve | /rɪˈzɒlv $ rɪˈzɑːlv, rɪˈzɒːlv/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/resolve_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/resolve1.mp3) |
 | resort | /rɪˈzɔːt $ -ɔːrt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/resort_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/resort1.mp3) |
 | retina | /ˈretənə/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/retina0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/retina.mp3) |
-| San Jose | // | [🇬🇧](http://dict.youdao.com/dictvoice?audio=San%20Jose&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=San%20Jose&type=2) |
 | Safari | /səˈfɑːri/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/safari_las2_br.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/safari1.mp3) |
+| San Jose | // | [🇬🇧](http://dict.youdao.com/dictvoice?audio=San%20Jose&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=San%20Jose&type=2) |
 | scene | /siːn/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/scene0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/scene.mp3) |
 | scheme | /skiːm/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/scheme_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/scheme1.mp3) |
 | snippet | /ˈsnɪpɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/snippet0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/snippet.mp3) |
