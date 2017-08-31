@@ -94,6 +94,7 @@
 | San Jose | // | [🇬🇧](http://dict.youdao.com/dictvoice?audio=San%20Jose&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=San%20Jose&type=2) |
 | scene | /siːn/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/scene0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/scene.mp3) |
 | scheme | /skiːm/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/scheme_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/scheme1.mp3) |
+| slogan | /ˈsləʊɡən $ ˈsloʊ-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/slogan0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/slogan.mp3) |
 | snippet | /ˈsnɪpɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/snippet0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/snippet.mp3) |
 | sour | /saʊə $ saʊr/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdesour.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/sour1.mp3) |
 | subtle | /ˈsʌtl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/subtle0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/subtle.mp3) |
