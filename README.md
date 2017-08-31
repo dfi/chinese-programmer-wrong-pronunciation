@@ -133,6 +133,6 @@
 
 * 附带了两个用 Python 写的 (简陋的) 小工具。
 
-    `fetcher.py 用于从 ldoceonline.com 获取单词的发音，运行后会自动复制所查询单词的结果，然后手动将结果插入此表。`
+    `fetcher.py 用于从 ldoceonline.com 获取单词的发音，运行后会自动将所查询单词的结果插入此表。`
     
     `pron_youdao.py 用于从 dict.youdao.com 模拟 Chrome 自动发音。`
