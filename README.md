@@ -103,6 +103,7 @@
 | scheme | /skiːm/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/scheme_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/scheme1.mp3) |
 | slogan | /ˈsləʊɡən $ ˈsloʊ-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/slogan0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/slogan.mp3) |
 | snippet | /ˈsnɪpɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/snippet0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/snippet.mp3) |
+| SOHO | /ˈsəʊhəʊ/ | [🇬🇧](https://dictionary.cambridge.org/zhs/media/english/uk_pron_ogg/c/cbe/cbedu/cbeduk09043.ogg) [🇺🇸](https://dictionary.cambridge.org/zhs/media/english/us_pron_ogg/c/cbe/cbedu/cbedus09043.ogg) |
 | sour | /saʊə $ saʊr/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdesour.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/sour1.mp3) |
 | subtle | /ˈsʌtl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/subtle0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/subtle.mp3) |
 | sudo | /'suːduː/ |  |
