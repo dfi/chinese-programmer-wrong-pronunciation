@@ -61,6 +61,7 @@
 | leverage | /ˈliːvərɪdʒ $ ˈle-, ˈliː-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/leverage_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/leverage.mp3) |
 | linear | /ˈlɪniə $ -ər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/linear0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/linear.mp3) |
 | Linux | /ˈlɪnəks, ˈlaɪnʌks/ | [🇺🇸](http://dictionary.cambridge.org/zhs/media/english/us_pron/e/eus/eus17/eus17029.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/linux1004a.mp3) |
+| luxury | /ˈlʌkʃəri/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/luxury0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/luxury.mp3) |
 | main | /meɪn/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdemain.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/main1.mp3) |
 | manifest | /ˈmænəfest/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/manifest_adj0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/manifest1.mp3) |
 | margin | /ˈmɑːdʒɪn $ ˈmɑːr-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/margin0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/margin.mp3) |
