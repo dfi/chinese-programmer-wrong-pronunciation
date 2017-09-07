@@ -133,6 +133,8 @@
 
 * 大多数音标和发音来自 [Longman Dictionary of Contemporary English Online](http://www.ldoceonline.com/)，部分来自 [有道](http://dict.youdao.com/) 和 [Cambridge Dictionary](http://dictionary.cambridge.org/zhs/) 等。
 
+* 其他查词网站：[Oxford Dictionaries](https://en.oxforddictionaries.com/), [Forvo](https://forvo.com/)。
+
 * 
     | Emoji | 表示 |
     | :----: | :----: |
