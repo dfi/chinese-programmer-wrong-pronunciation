@@ -21,6 +21,7 @@
 | cast | /kɑːst $ kæst/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/cast_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/cast1.mp3) |
 | causal | /ˈkɔːzəl $ ˈkɒː-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41causal.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/causal.mp3) |
 | caveat | /ˈkæviæt, ˈkeɪv-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41caveat.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/caveat.mp3) |
+| chameleon | /kəˈmiːliən/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/chameleon0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/chameleon.mp3) |
 | choir | /kwaɪə $ kwaɪr/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdechoir.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/choir.mp3) |
 | console | /kənˈsəʊl $ -ˈsoʊl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/console_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/l3console.mp3) |
 | coupon | /ˈkuːpɒn $ -pɑːn/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/coupon0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/coupon.mp3) |
