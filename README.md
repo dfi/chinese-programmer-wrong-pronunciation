@@ -17,6 +17,7 @@
 | bind | /baɪnd/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/bind_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/bind1.mp3) |
 | bouquet | /bəʊˈkeɪ, buː- $ boʊ-, buː-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/bouquet0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/bouquet.mp3) |
 | cache | /kæʃ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/cache_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/cache.mp3) |
+| Cartesian | /kɑːˈti.zi.ən $ kɑːrˈti.ʒən/ | [🇬🇧](https://dictionary.cambridge.org/zhs/media/english-chinese-simplified/uk_pron_ogg/u/ukc/ukcar/ukcarpe022.ogg) [🇺🇸](https://dictionary.cambridge.org/zhs/media/english-chinese-simplified/us_pron_ogg/u/usc/uscar/uscarot014.ogg) |
 | cascade | /kæˈskeɪd/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/cascade_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/cascade1.mp3) |
 | cast | /kɑːst $ kæst/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/cast_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/cast1.mp3) |
 | causal | /ˈkɔːzəl $ ˈkɒː-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41causal.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/causal.mp3) |
