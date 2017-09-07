@@ -29,6 +29,7 @@
 | daemon | /ˈdiːmən/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41daemon.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/daemon.mp3) |
 | depth | /depθ/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=depth&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=depth&type=2) |
 | deque | /dek/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=deque&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=deque&type=2) |
+| deviate | /ˈdiːvieɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/deviate_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/l3deviate.mp3) |
 | dice | /daɪs/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/dice_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/dice1.mp3) |
 | digest | /ˈdaɪdʒest/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/digest_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/l3digest2.mp3) |
 | Django | /ˈdʒæŋɡo/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=Django&type=1) [🇺🇸]() |
