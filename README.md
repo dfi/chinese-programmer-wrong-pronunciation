@@ -61,6 +61,7 @@
 | Java | /ˈdʒɑːvə/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41java2.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/p028-000006654.mp3) |
 | JPEG(JPG) | /ˈdʒeɪ peɡ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld42jpeg.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadjpeg.mp3) |
 | JSON | /ˈdʒeɪsən/ | [🌍](https://en.wikipedia.org/wiki/JSON) [🎞](https://www.youtube.com/watch?v=hQVTIJBZook&t=2405) |
+| Kubernetes | /koo-ber-nay'-tace/ | [🌍](https://github.com/kubernetes/kubernetes/issues/44308) [🌍](http://www.biblestudytools.com/lexicons/greek/nas/kubernetes.html) [🎞](https://www.youtube.com/watch?v=uMA7qqXIXBk) |
 | lambda | /ˈlæmdə/ | [🇬🇧](http://dict.youdao.com/dictvoice?audio=lambda&type=1) [🇺🇸](http://dict.youdao.com/dictvoice?audio=lambda&type=2) |
 | leverage | /ˈliːvərɪdʒ $ ˈle-, ˈliː-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/leverage_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/leverage.mp3) |
 | linear | /ˈlɪniə $ -ər/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/linear0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/linear.mp3) |
