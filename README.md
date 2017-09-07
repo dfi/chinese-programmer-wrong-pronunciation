@@ -37,6 +37,7 @@
 | epoch | /ˈiːpɒk $ ˈepək/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/epoch_las3_br.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/epoch.mp3) |
 | erosion | /ɪˈrəʊʒən $ ɪˈroʊ-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41erosion.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/erosion.mp3) |
 | ethernet | /ˈiːθənet $ -ər-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ethernet0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadethernet.mp3) |
+| Euclidean | /juˈklɪd.i.ən/ | [🇬🇧](https://dictionary.cambridge.org/zhs/media/english-chinese-simplified/uk_pron_ogg/u/uke/ukety/uketymo012.ogg) [🇺🇸](https://dictionary.cambridge.org/zhs/media/english-chinese-simplified/us_pron_ogg/u/use/useuc/useucal003.ogg) |
 | exhibit | /ɪɡˈzɪbɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/exhibit_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/exhibit1.mp3) |
 | facade | /fəˈsɑːd, fæ-/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/facade0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/laadfacade.mp3) |
 | fedora | /fəˈdɔːrə/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/ld41fedora.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/ld41fedora.mp3) |
