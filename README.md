@@ -87,6 +87,7 @@
 | phantom | /ˈfæntəm/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/brelasdephantom.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/phantom.mp3) |
 | pip | /pɪp/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/pip_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/pip1.mp3) |
 | plague | /pleɪɡ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/plague_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/plague1.mp3) |
+| pronunciation | /prəˌnʌnsiˈeɪʃən/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/pronunciation0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/pronunciation.mp3) |
 | pulse | /pʌls/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/pulse_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/pulse1.mp3) |
 | punctuation | /ˌpʌŋktʃuˈeɪʃən/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/punctuation0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/punctuation.mp3) |
 | putty | /ˈpʌti/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/putty0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/putty.mp3) |
