@@ -88,6 +88,7 @@
 | pip | /pɪp/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/pip_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/pip1.mp3) |
 | plague | /pleɪɡ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/plague_v0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/plague1.mp3) |
 | pulse | /pʌls/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/pulse_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/pulse1.mp3) |
+| punctuation | /ˌpʌŋktʃuˈeɪʃən/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/punctuation0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/punctuation.mp3) |
 | putty | /ˈpʌti/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/putty0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/putty.mp3) |
 | Qt | cute | [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) |
 | query | /ˈkwɪəri $ ˈkwɪri/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/query_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/query1.mp3) |
