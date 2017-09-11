@@ -114,6 +114,7 @@
 | subtle | /ˈsʌtl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/subtle0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/subtle.mp3) |
 | sudo | /'suːduː/ |  |
 | suite | /swiːt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/suite0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/suite.mp3) |
+| surge | /sɜːdʒ $ sɜːrdʒ/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/surge_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/serge.mp3) |
 | tablet | /ˈtæblɪt/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/tablet0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/tablet.mp3) |
 | thorough | /ˈθʌrə $ ˈθʌroʊ, ˈθʌrə/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/thorough0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/thorough.mp3) |
 | tunnel | /ˈtʌnl/ | [🇬🇧](http://www.ldoceonline.com/media/english/breProns/tunnel_n0205.mp3) [🇺🇸](http://www.ldoceonline.com/media/english/ameProns/tunnel1.mp3) |
